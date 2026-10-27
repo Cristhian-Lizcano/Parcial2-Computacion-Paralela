@@ -1,6 +1,6 @@
 # Integración por Monte Carlo con OpenMP
 
-Evaluación de programación paralela en memoria compartida (UIS, 28661). Código: **2191050** (semilla). N = 10^8. Mediciones del 27 de octubre de 2026 en Linux (Ubuntu 24.04), Intel Core i5-12400F (6 núcleos, 12 hilos lógicos), GCC 13.3.0. 
+Evaluación de computación paralela en memoria compartida (UIS, 28661). Código: **2191050** (semilla). N = 10^8. Mediciones del 27 de octubre de 2026 en Linux (Ubuntu 24.04), Intel Core i5-12400F (6 núcleos, 12 hilos lógicos), GCC 13.3.0. 
 
 ## Archivos
 
