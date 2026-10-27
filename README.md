@@ -1,6 +1,6 @@
 # Integración por Monte Carlo con OpenMP
 
-Evaluación de programación paralela en memoria compartida (UIS, 28661). Semilla asignada: **2191050**. N = 10^8. Mediciones del 27 de octubre de 2026 en Linux (Ubuntu 24.04), Intel Core i5-12400F (6 núcleos, 12 hilos lógicos), GCC 13.3.0. El desarrollo contó con asistencia de IA.
+Evaluación de programación paralela en memoria compartida (UIS, 28661). Código: **2191050** (semilla). N = 10^8. Mediciones del 27 de octubre de 2026 en Linux (Ubuntu 24.04), Intel Core i5-12400F (6 núcleos, 12 hilos lógicos), GCC 13.3.0. 
 
 ## Archivos
 
@@ -50,4 +50,4 @@ python3 grafica.py
 python3 generar_pdf.py
 ```
 
-Los tiempos corresponden a este equipo y fecha; otra ejecución producirá valores distintos, pero los aciertos deben ser siempre 78542140 con la semilla 2191050.
+Los tiempos corresponden a este equipo y fecha; otra ejecución producirá valores distintos, pero los aciertos deberían ser siempre 78542140 con la semilla 2191050.
