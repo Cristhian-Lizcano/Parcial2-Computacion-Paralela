@@ -1,0 +1,5 @@
+montecarlo
+montecarlo_secuencial
+*.exe
+*.o
+__pycache__/
